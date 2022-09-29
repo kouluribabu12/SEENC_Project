@@ -69,8 +69,8 @@ Python IDE : Pycharm
 Programing Language: Python - 3.9
 
 Libraries Need to be install in Anaconda
- ECIES - Elliptic curve integrated Encryption scheme
- ECDSA - Elliptic curve Digital signature Algorithm   
+ECIES - Elliptic curve integrated Encryption scheme
+ECDSA - Elliptic curve Digital signature Algorithm   
 Tkinter
 Numpy (Numerical python)  
 Encrypt & Decrypt
