@@ -74,4 +74,11 @@ ECDSA - Elliptic curve Digital signature Algorithm
 Tkinter
 Numpy (Numerical python)  
 Encrypt & Decrypt
-
+# APPLICATIONS OF CRYPTOGRAPHY:
+1.            Authentication/Digital Signatures
+2.            Time Stamping
+3.            Electronic Money
+4.            Encryption/Decryption in email
+5.            Encryption in WhatsApp
+6.            Encryption in Instagram
+7.            Sim card Authentication
