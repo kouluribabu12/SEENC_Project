@@ -35,6 +35,7 @@ over the Internet for security and commerce. Computer encryption is
 constantly evolving to prevent attacks as computing power
 increases.Encryption is typically accomplished through the use of key
 algorithms.
+
 # DECRYPTION :
 Decryption is the process of converting encrypted data back to its
 original form. In general, it is a reverse encryption process. Because
