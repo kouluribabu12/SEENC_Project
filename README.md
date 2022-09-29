@@ -1,5 +1,5 @@
 # SEENC_Project
-                          #ABSTRACT
+   # ABSTRACT
 In today's society, data security is a major concern. When a person
 transmits a secret message to a recipient, there are numerous ways for
 third parties to get access to the communication. When it comes to safely
